@@ -1,0 +1,21 @@
+/* about.html css */
+
+/* container 중앙정렬 */
+.container_position { width: 930px; height: 1700px; margin: 0 auto; }
+
+/* container box */
+#container_box { width: 100%; height: 74%; margin: 0 auto; position: fixed; background-color: #031727; z-index: -100; }
+
+/* container about */
+.container_about { width: 100%; height: 100%; text-align: center; }
+.about_layout { width: 100%; height: 600px; margin: 0px 0 120px 0; }
+.container_about_img { width: 128px; height: 128px; padding: 30px; }
+.container_about h1 { font-size: 40px; margin-top: 30px; color: #20cbd3; }
+.container_about h2 { margin-top: 15px; color: #fff; margin-top: 30px; }
+.container_about h3 { margin-top: 10px; color: #fff; }
+.container_target_box { margin-top: 33%; }
+.container_target_box h2 { font-size: 40px; margin-top: 30px; color: #BDBDBD; }
+.container_target_box h1 { font-size: 33px; font-weight: 600; margin-top: 30px; color: #20cbd3; }
+
+.major_activity_field { position: relative; width: 600px; height: 50px; text-align: center; margin: 0 auto; margin-bottom: 30px; }
+.major_activity_field h3 { width: 50px; float: left; font-size: 22px; color: #fff; padding: 0 50px 0 50px; }

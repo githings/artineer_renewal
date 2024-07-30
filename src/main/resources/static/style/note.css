@@ -1,0 +1,26 @@
+/* note css */
+.container_position { width: 930px; height: 100%; margin: 0 auto; padding-top: 5%; margin-bottom: 7%; }
+.container_position a { text-decoration: none; }
+
+.note { width: 100%; margin-bottom: 15%; }
+
+.note_title { width: 100%; height: 50px; padding: 10px; margin-bottom: 30px; text-align: center; }
+.note_title h1 { color: #20cbd3; }
+.note_title h3 { color : #e2e2e2; font-size: 15px; font-weight: 400; }
+
+.note_write { width: 70%; height: 100%; margin: auto; }
+.note_write_table { width: 100%; height: 100px; }
+.note_view { width: 70%; height: 100%; border-top: 1px solid #20cbd3; margin: auto; margin-top: 20px; padding-top: 20px; }
+.note_view_table { border-bottom: 1px dashed #b2b2b2; width: 100%; height: 100px; margin-top: 10px; }
+
+.table_name input { width: 200px; height: 30px; padding-left: 10px; }
+.table_pw input { width: 200px; height: 30px; padding-left: 10px; }
+.table_memo textarea { width: 515px; height: 60px; padding: 10px; }
+
+.note_button { width: 70px; height: 25px; font-size: 15px; color: #fff; background-color: #20cbd3; border: 0px solid #fff; margin-top: 10px; margin-bottom: 10px; }
+
+.list_page { width: 65%; font-size: 13px; text-align: center; }
+.list { width: 20%; margin: auto; margin-top: 5%; }
+.before { float: left; }
+.next { float: right; }
+.container_content { width: 65%; margin: auto; margin-top: 4%; }
