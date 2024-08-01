@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
 
-    <title> :: ARTINEER :: </title>
+    <title> :: ARTINEERrrrrrrr :: </title>
 
     <link rel="stylesheet" href="./style/init.css">
     <link rel="stylesheet" href="./style/about.css">
